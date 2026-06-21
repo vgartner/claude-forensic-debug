@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Claude Code local state (don't ship)
+.claude/settings.local.json
+
+# Logs and debug output produced by the skill itself during dev
+.debug/
+*.log
